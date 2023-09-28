@@ -1,11 +1,11 @@
 ### Hey there 👋
 
-I'm Matt, a senior software engineer working in NYC. I'm currently working on building a real-time fleet management system that interacts with over 4000 robots across the country.
+I'm Matt, a NYC based DevOps Tech Lead working at @TeePublic. Check us out at https://www.teepublic.com. 
 
 Here's some info about me:
 
-- 🤖  Currently work at [@KeyMe](https://github.com/keyme)
+- 🤖  Currently work at [@TeePublic](https://www.teepublic.com)
 - 🎓  Working on my masters in CS from Stevens Institute of Technology
-- 💻  RoR / RMQ / Python are my daily drivers
+- 💻  RoR / Node.js / Python are my daily drivers
 - 🐣  Follow me on Twitter [@matttarantino](https://twitter.com/matttarantino)
 - 📫  Check out my website: [matttarantino.com](https://www.matttarantino.com)
